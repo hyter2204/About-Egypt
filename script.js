@@ -1,0 +1,1 @@
+alert ("Welcome to About Egypt project! Press OK to Contuine");
